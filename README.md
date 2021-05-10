@@ -1,2 +1,3 @@
-# Basic_HTML_and_JavaScript_1
- 
+# Basic HTML and JavaScript
+
+These simple projects have been created for learning purposes. 
